@@ -1,0 +1,9 @@
+{
+  "name": "ab-home",
+  "version": "0.0.1",
+  "dependencies": {
+    "gsap": "~1.16.1",
+    "jquery": "~2.1.4",
+    "konva": "~0.9.0"
+  }
+}
